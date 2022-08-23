@@ -1,0 +1,3 @@
+C:/Users/shawn/C/postfix/cmake-build-debug/CMakeFiles/postfix.dir
+C:/Users/shawn/C/postfix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shawn/C/postfix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
