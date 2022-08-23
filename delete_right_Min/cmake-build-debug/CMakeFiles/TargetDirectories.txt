@@ -1,0 +1,3 @@
+C:/Users/shawn/delete_right_Min/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shawn/delete_right_Min/cmake-build-debug/CMakeFiles/delete_right_Min.dir
+C:/Users/shawn/delete_right_Min/cmake-build-debug/CMakeFiles/rebuild_cache.dir
