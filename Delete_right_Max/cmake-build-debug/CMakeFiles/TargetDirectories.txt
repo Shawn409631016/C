@@ -1,0 +1,3 @@
+C:/Users/shawn/Delete_right_Max/cmake-build-debug/CMakeFiles/Delete_right_Max.dir
+C:/Users/shawn/Delete_right_Max/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shawn/Delete_right_Max/cmake-build-debug/CMakeFiles/rebuild_cache.dir

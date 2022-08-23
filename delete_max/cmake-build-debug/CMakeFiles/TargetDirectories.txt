@@ -1,0 +1,3 @@
+C:/Users/shawn/delete_max/cmake-build-debug/CMakeFiles/delete_max.dir
+C:/Users/shawn/delete_max/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shawn/delete_max/cmake-build-debug/CMakeFiles/rebuild_cache.dir
