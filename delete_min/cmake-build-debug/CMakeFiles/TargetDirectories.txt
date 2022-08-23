@@ -1,0 +1,3 @@
+C:/Users/shawn/C/delete_min/cmake-build-debug/CMakeFiles/delete_min.dir
+C:/Users/shawn/C/delete_min/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shawn/C/delete_min/cmake-build-debug/CMakeFiles/rebuild_cache.dir
