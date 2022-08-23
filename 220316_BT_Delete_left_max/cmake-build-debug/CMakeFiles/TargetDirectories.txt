@@ -1,0 +1,3 @@
+C:/Users/shawn/220316 BT Delete left max/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shawn/220316 BT Delete left max/cmake-build-debug/CMakeFiles/220316_BT_Delete_left_max.dir
+C:/Users/shawn/220316 BT Delete left max/cmake-build-debug/CMakeFiles/edit_cache.dir

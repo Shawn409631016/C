@@ -1,0 +1,3 @@
+C:/Users/shawn/220604 linked stack/cmake-build-debug/CMakeFiles/220604_linked_stack.dir
+C:/Users/shawn/220604 linked stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shawn/220604 linked stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

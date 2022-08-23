@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\BT_Delete_left_min.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\BT_Delete_left_min.dir/objects.a @CMakeFiles\BT_Delete_left_min.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\BT_Delete_left_min.dir/objects.a -Wl,--no-whole-archive -o BT_Delete_left_min.exe -Wl,--out-implib,libBT_Delete_left_min.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BT_Delete_left_min.dir\linklibs.rsp
